@@ -26,17 +26,20 @@ h1 {
     font-size: 36pt;
     color: #d32f2f;
     margin-bottom: 20mm;
+    text-align: center;
 }
 
 p {
     font-size: 24pt;
     line-height: 1.5;
     margin-bottom: 10mm;
+    text-align: center;
 }
 
 .highlight {
     font-weight: 700;
     color: #d32f2f;
+    text-align: center;
 }
 
 .warning {
@@ -46,6 +49,7 @@ p {
     border: 3pt solid #d32f2f;
     padding: 10mm;
     margin-top: 20mm;
+    text-align: center;
 }
 
 @media print {
