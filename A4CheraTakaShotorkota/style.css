@@ -13,10 +13,12 @@ body {
     margin: 0 auto;
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex; /* Flexbox ব্যবহার করে কেন্দ্রীকরণ */
+    justify-content: center;
+    align-items: center;
 }
 
 .content {
-    padding: 40mm 20mm;
     text-align: center;
 }
 
