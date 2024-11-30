@@ -23,14 +23,14 @@ body {
 }
 
 h1 {
-    font-size: 36pt;
+    font-size: 50pt;
     color: #d32f2f;
     margin-bottom: 20mm;
     text-align: center;
 }
 
 p {
-    font-size: 24pt;
+    font-size: 36pt;
     line-height: 1.5;
     margin-bottom: 10mm;
     text-align: center;
@@ -43,7 +43,6 @@ p {
 }
 
 .warning {
-    font-size: 28pt;
     font-weight: 700;
     color: #d32f2f;
     border: 3pt solid #d32f2f;
